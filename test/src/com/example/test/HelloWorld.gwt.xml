@@ -4,5 +4,6 @@
 	<inherits name="com.google.gwt.user.User" />
 	<inherits name="com.google.gwt.user.theme.chrome.Chrome"/>
 	<source path="client" />
+	<source path="shared"/>
 	<entry-point class="com.example.test.client.Home"></entry-point>
 </module>
