@@ -10,6 +10,6 @@ public class Home implements EntryPoint {
 	@Override
 	public void onModuleLoad() {
 		RootPanel.get().add(form);
-	}
+	} 
 
 }
